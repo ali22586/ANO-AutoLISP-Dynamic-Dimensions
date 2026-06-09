@@ -23,7 +23,7 @@
 
 ## 🛠️ Installation & Usage
 
-1.  Download the `ANO-v10.3.LSP` file.
+1.  Download the `ANO-v10.3.FAS` file.
 2.  Open AutoCAD and type `APPLOAD` in the command line.
 3.  Select the downloaded file and click **Load**.
 4.  Type **`ANO`** in the command line to launch the tool.
