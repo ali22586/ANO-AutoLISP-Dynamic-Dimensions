@@ -19,7 +19,7 @@
 
 ## 🚀 How It Works (Demo)
 
-> **[1.gif]**
+> **![Demo of ANO Lisp](1.gif)**
 
 ## 🛠️ Installation & Usage
 
