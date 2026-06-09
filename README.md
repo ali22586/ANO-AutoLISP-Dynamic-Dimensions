@@ -32,7 +32,7 @@
 ## 📸 Screenshots
 
 * **Settings Interface:**
-    > **![Settings Window](Capture.png)**
+    > **![Settings Window](setting.jpg)**
 ## 💼 Custom Automation & Consulting
 
 This tool is a sample of what can be achieved through workflow automation in civil engineering and construction management. 
